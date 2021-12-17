@@ -1,0 +1,26 @@
+{
+  "name": "laravel/sem",
+  "description": "Laravel Sem help you to send SMS to users very simple.",
+  "keywords": ["laravel","sms","idanieldrew"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/idanieldrew/sem/issues",
+    "source": "https://github.com/idanieldrew/sem"
+  },
+  "authors": [
+    {
+      "name": "Daniel",
+      "email": "danielgia34@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "illuminate/support": "^7.0",
+    "guzzlehttp/guzzle": "6.5"
+  },
+  "autoload": {
+    "psr4": {
+      "idanieldrew\\": "src/"
+    }
+  }
+}
