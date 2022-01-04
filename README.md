@@ -9,4 +9,3 @@ This Package help you to send sms
 ```bash
     php artisan vendor:publish --tag=config
 ```
-#### 3- Add apikey and linenumber in config
