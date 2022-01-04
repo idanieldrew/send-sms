@@ -1,5 +1,5 @@
 {
-  "name": "laravel/sem",
+  "name": "idanieldrew/sem",
   "description": "Laravel Sem help you to send SMS to users very simple.",
   "keywords": ["laravel","sms","idanieldrew"],
   "license": "MIT",
@@ -10,7 +10,7 @@
   "authors": [
     {
       "name": "Daniel",
-      "email": "danielgia34@gmail.com"
+      "email": "danielgia35@gmail.com"
     }
   ],
   "minimum-stability": "dev",
