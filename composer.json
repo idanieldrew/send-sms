@@ -19,7 +19,7 @@
     "guzzlehttp/guzzle": ">=6.5"
   },
   "autoload": {
-    "psr4": {
+    "psr-4": {
       "Idanieldrew\\": "src/"
     }
   },
