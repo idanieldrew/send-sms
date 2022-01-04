@@ -3,6 +3,7 @@
   "description": "Laravel Sem help you to send SMS to users very simple.",
   "keywords": ["laravel","sms","idanieldrew"],
   "license": "MIT",
+  "version": "0.1",
   "support": {
     "issues": "https://github.com/idanieldrew/sem/issues",
     "source": "https://github.com/idanieldrew/sem"
