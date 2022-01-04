@@ -14,11 +14,9 @@
       "email": "danielgia35@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
-    "php": "^7.2",
-    "illuminate/support": "^7.0",
-    "guzzlehttp/guzzle": "6.5"
+    "illuminate/support": "^7.0 || ^8.0",
+    "guzzlehttp/guzzle": ">=6.5"
   },
   "autoload": {
     "psr4": {
