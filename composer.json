@@ -21,13 +21,13 @@
   },
   "autoload": {
     "psr4": {
-      "SendSms\\": "src/"
+      "Idanieldrew\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "SendSms\\src\\SendSmsServiceProvider"
+        "Idanieldrew\\SendSmsServiceProvider"
       ]
     }
   }
